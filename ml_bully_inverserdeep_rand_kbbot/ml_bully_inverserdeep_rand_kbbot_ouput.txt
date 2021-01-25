@@ -1,0 +1,184 @@
+Generating dataset: [============================= ]  99%
+Done. Time to generate dataset: 449.25 seconds
+Starting training phase...
+Iteration 1, loss = 0.64335042
+Validation score: 0.695294
+Iteration 2, loss = 0.56422670
+Validation score: 0.707230
+Iteration 3, loss = 0.54710105
+Validation score: 0.714364
+Iteration 4, loss = 0.53837098
+Validation score: 0.715736
+Iteration 5, loss = 0.53285096
+Validation score: 0.720263
+Iteration 6, loss = 0.52858969
+Validation score: 0.724654
+Iteration 7, loss = 0.52467891
+Validation score: 0.725065
+Iteration 8, loss = 0.52079038
+Validation score: 0.724516
+Iteration 9, loss = 0.51692679
+Validation score: 0.728495
+Iteration 10, loss = 0.51282786
+Validation score: 0.730827
+Iteration 11, loss = 0.50865347
+Validation score: 0.733297
+Iteration 12, loss = 0.50424656
+Validation score: 0.737687
+Iteration 13, loss = 0.49977506
+Validation score: 0.741391
+Iteration 14, loss = 0.49486884
+Validation score: 0.745095
+Iteration 15, loss = 0.48980936
+Validation score: 0.748114
+Iteration 16, loss = 0.48478092
+Validation score: 0.753739
+Iteration 17, loss = 0.47966917
+Validation score: 0.752092
+Iteration 18, loss = 0.47473321
+Validation score: 0.757717
+Iteration 19, loss = 0.46970683
+Validation score: 0.759775
+Iteration 20, loss = 0.46475865
+Validation score: 0.762656
+Iteration 21, loss = 0.46003570
+Validation score: 0.765674
+Iteration 22, loss = 0.45537034
+Validation score: 0.766223
+Iteration 23, loss = 0.45112210
+Validation score: 0.771299
+Iteration 24, loss = 0.44689361
+Validation score: 0.772260
+Iteration 25, loss = 0.44298016
+Validation score: 0.775003
+Iteration 26, loss = 0.43919786
+Validation score: 0.776787
+Iteration 27, loss = 0.43567635
+Validation score: 0.781177
+Iteration 28, loss = 0.43211331
+Validation score: 0.777884
+Iteration 29, loss = 0.42893131
+Validation score: 0.781726
+Iteration 30, loss = 0.42569226
+Validation score: 0.783509
+Iteration 31, loss = 0.42258775
+Validation score: 0.784470
+Iteration 32, loss = 0.41974070
+Validation score: 0.785156
+Iteration 33, loss = 0.41708313
+Validation score: 0.784470
+Iteration 34, loss = 0.41440028
+Validation score: 0.784058
+Iteration 35, loss = 0.41162943
+Validation score: 0.785293
+Iteration 36, loss = 0.40911083
+Validation score: 0.786390
+Iteration 37, loss = 0.40660294
+Validation score: 0.788037
+Iteration 38, loss = 0.40430363
+Validation score: 0.787900
+Iteration 39, loss = 0.40191196
+Validation score: 0.787214
+Iteration 40, loss = 0.39968222
+Validation score: 0.787625
+Iteration 41, loss = 0.39750071
+Validation score: 0.787900
+Iteration 42, loss = 0.39533859
+Validation score: 0.789134
+Iteration 43, loss = 0.39339763
+Validation score: 0.787900
+Iteration 44, loss = 0.39103873
+Validation score: 0.789409
+Iteration 45, loss = 0.38900277
+Validation score: 0.792015
+Iteration 46, loss = 0.38717222
+Validation score: 0.791467
+Iteration 47, loss = 0.38511862
+Validation score: 0.791055
+Iteration 48, loss = 0.38330165
+Validation score: 0.793387
+Iteration 49, loss = 0.38152518
+Validation score: 0.793113
+Iteration 50, loss = 0.37979591
+Validation score: 0.794210
+Iteration 51, loss = 0.37786675
+Validation score: 0.794073
+Iteration 52, loss = 0.37644456
+Validation score: 0.795034
+Iteration 53, loss = 0.37457015
+Validation score: 0.794896
+Iteration 54, loss = 0.37306868
+Validation score: 0.796680
+Iteration 55, loss = 0.37124564
+Validation score: 0.799561
+Iteration 56, loss = 0.36981655
+Validation score: 0.796268
+Iteration 57, loss = 0.36820040
+Validation score: 0.796817
+Iteration 58, loss = 0.36652633
+Validation score: 0.797640
+Iteration 59, loss = 0.36524951
+Validation score: 0.799561
+Iteration 60, loss = 0.36361066
+Validation score: 0.799973
+Iteration 61, loss = 0.36203200
+Validation score: 0.799698
+Iteration 62, loss = 0.36073242
+Validation score: 0.798601
+Iteration 63, loss = 0.35903949
+Validation score: 0.800247
+Iteration 64, loss = 0.35787179
+Validation score: 0.799424
+Iteration 65, loss = 0.35639790
+Validation score: 0.801344
+Iteration 66, loss = 0.35514707
+Validation score: 0.802030
+Iteration 67, loss = 0.35368646
+Validation score: 0.802854
+Iteration 68, loss = 0.35232458
+Validation score: 0.803265
+Iteration 69, loss = 0.35105714
+Validation score: 0.802442
+Iteration 70, loss = 0.34978186
+Validation score: 0.802030
+Iteration 71, loss = 0.34858599
+Validation score: 0.803951
+Iteration 72, loss = 0.34726111
+Validation score: 0.805049
+Iteration 73, loss = 0.34598212
+Validation score: 0.802579
+Iteration 74, loss = 0.34468191
+Validation score: 0.800247
+Iteration 75, loss = 0.34369077
+Validation score: 0.802854
+Iteration 76, loss = 0.34232724
+Validation score: 0.806969
+Iteration 77, loss = 0.34109241
+Validation score: 0.802854
+Iteration 78, loss = 0.34014244
+Validation score: 0.803951
+Iteration 79, loss = 0.33886661
+Validation score: 0.805460
+Iteration 80, loss = 0.33792982
+Validation score: 0.802168
+Iteration 81, loss = 0.33665217
+Validation score: 0.804363
+Iteration 82, loss = 0.33554818
+Validation score: 0.807518
+Iteration 83, loss = 0.33445812
+Validation score: 0.803951
+Iteration 84, loss = 0.33330724
+Validation score: 0.806009
+Iteration 85, loss = 0.33212408
+Validation score: 0.805049
+Iteration 86, loss = 0.33111896
+Validation score: 0.805460
+Iteration 87, loss = 0.33025503
+Validation score: 0.807381
+Iteration 88, loss = 0.32905283
+Validation score: 0.802442
+Iteration 89, loss = 0.32806980
+Validation score: 0.804912
+Validation score did not improve more than tol=0.000100 for 6 consecutive epochs. Stopping.
+instances per class: {'lost': 36874, 'won': 36008}
+Done. Time to train: 3.616508193810781 minutes.
